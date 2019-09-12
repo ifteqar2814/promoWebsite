@@ -1,0 +1,57 @@
+/*
+comments can go here... wil not be executed as code
+ */
+body
+{
+    /*background-color: aqua ;*/
+    background-image: url("img/sunset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#htmlLinks
+{
+    background-color: darkorange;
+    color: brown;
+}
+#lists
+{
+    color: chartreuse;
+}
+#Sports
+{
+    color: black;
+}
+/* the CSS below was obtained via w3schools.com*/
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #000000;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #cf6a56;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #e8890b;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #e8890b;
+    color: #ffffff;
+}
+
+
+
