@@ -1,0 +1,42 @@
+body{
+    background-image: linear-gradient(to bottom right,red,yellow);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#conclusion
+{
+    color: black;
+    font-size: xx-large;
+    font-family: Algerian;
+    text-align: center;
+}
+
+#thankyou
+{
+    color: black;
+    font-family: Algerian;
+    text-align: center;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: #ffeb3b;
+}
+
+.topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: red;
+    font-size: 15px;
+}
+.topnav a:hover{
+    background-color: #ff2d21;
+    color: white;
+}
+.topnav a:active{
+    background-color: #80d6ff;
+    color: #8db9ff;
+}

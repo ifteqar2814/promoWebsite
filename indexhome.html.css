@@ -1,0 +1,62 @@
+body
+{
+   background-image: url("img/beach.jpg");
+
+
+
+}
+
+#paragraph1
+{
+  color: blue;
+    font-size: larger;
+}
+
+#life
+{
+    color: crimson;
+text-align: center;
+}
+
+#me
+{
+    font-size: larger;
+    color: firebrick;
+}
+#lists{
+    font-size: larger;
+    color: chocolate;
+}
+
+#Family
+{
+color: #920e00;
+    font-size: larger;
+}
+
+.active {
+    background-color: #c6e9ff;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: #c6e9ff;
+}
+
+.topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: red;
+    font-size: 15px;
+}
+.topnav a:hover{
+    background-color: #8db9ff;
+    color: white;
+}
+.topnav a:active{
+    background-color: #8db9ff;
+    color: #8db9ff;
+}
+

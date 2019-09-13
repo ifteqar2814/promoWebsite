@@ -1,0 +1,59 @@
+body
+{
+    background-image: url("img/sunset.jpg");
+
+
+}
+
+#a
+{
+    font-size: x-large;
+    color: #000000;
+    font-family: Calibri;
+}
+#a2
+{
+    font-size: x-large;
+    color: firebrick;
+    font-family: Calibri;
+}
+
+#iips
+{
+    font-size: larger;
+    color: darkred;
+    font-family: Algerian;
+}
+
+#hehs
+{
+    font-size: larger;
+    color: darkred;
+    font-family: Algerian;
+}
+
+.active {
+    background-color: #c6e9ff;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: #c6e9ff;
+}
+
+.topnav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: red;
+    font-size: 15px;
+}
+.topnav a:hover{
+    background-color: #8db9ff;
+    color: white;
+}
+.topnav a:active{
+    background-color: #8db9ff;
+    color: #8db9ff;
+}
